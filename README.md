@@ -6,7 +6,7 @@ The object oriented language is called ORDA (Object Relational Data Access) and 
 
 ### Methodology
 
-Studying the [documentation] (http://doc.4d.com/4Dv17/4D/17/4D-Language-Reference.100-3729310.en.html) was overwhelming. So I started a new database and began simply copying examples from the docs to watch them work. This also allowed me to group commands into functional groups as opposed to an alphabetical listing. 
+Studying the [documentation](http://doc.4d.com/4Dv17/4D/17/4D-Language-Reference.100-3729310.en.html) was overwhelming. So I started a new database and began simply copying examples from the docs to watch them work. This also allowed me to group commands into functional groups as opposed to an alphabetical listing. 
 
 Eventually I would up copying all of the examples from all the new commands. This also required adding some tables for demo data. 
 
