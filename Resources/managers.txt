@@ -1,9 +1,0 @@
-Reginald	Dorsey	1624 Lewis Street, Buffalo Grove, IL 60089	male	ReginaldCDorsey@jourrapide.com	630-902-4393	1/24/1980	14700	69114663587A4FED9D57BF5A1852AF19
-Cruz	Moreno	66 Haymond Rocks Road, Burns, OR 97720	female	CruzCMoreno@armyspy.com	541-573-7120	7/20/1934	61100	69114663587A4FED9D57BF5A1852AF19
-Edwin	Lugo	809 Heritage Road, Terra Bella, CA 93270	male	EdwinMLugo@teleworm.us	559-783-7026	1/26/1990	12400	69114663587A4FED9D57BF5A1852AF19
-Marcia	Rimmer	2625 Lincoln Street, Penns Neck, NJ 8540	female	MarciaORimmer@jourrapide.com	609-520-1170	10/2/1992	24600	80E8F61632CE46E49EF48C68838535C7
-Vanessa	Coppage	2172 Golden Street, Miami, FL 33179	female	VanessaDCoppage@einrot.com	305-657-2834	10/21/1961	83700	832CA65FE6464108A088EF192AD92320
-John	Smith	100 Woodbridge Lane, Detroit, MI 48207	male	JohnESmith@superrito.com	313-567-3401	8/27/1939	105500	86355EC8782F42CB8666F69FA250253E
-Michelle	Davis	731 Hinkle Deegan Lake Road, Binghamton, NY 13901	female	MichelleCDavis@superrito.com	607-223-9925	3/16/1998	56100	9556B804432B4B3C9EB02A6F29D6694B
-Robert	Elkins	1516 Cody Ridge Road, Lawton, OK 73505	male	RobertJElkins@dayrep.com	580-510-3121	11/7/1968	21700	6E27F0EC201F461EBE294AB14B80B13C
-Loretta	Soto	2311 Owen Lane, Traverse City, MI 49684	female	LorettaFSoto@armyspy.com	231-932-1664	3/20/1992	40600	7E2E2FD0B9A9402895CE0D7ED442F0C8
