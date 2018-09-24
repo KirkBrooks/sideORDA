@@ -15,3 +15,7 @@ Overall the process took me a little over two days to complete. At the end of it
 ### Consider making your own
 
 Seriously - think about doing the same thing I did. You'll gain a lot. If you don't have time download this one and work your way through it. 
+
+### If you're unfamiliar with git
+
+Click the green Clone or download button in the upper right of the window. Then choose download .zip. This will download a complete copy of the database. Open it with v17 or later. 
