@@ -1,6 +1,10 @@
 ## sideORDA
 
-This is a learning tool for 4D v17+. If you aren't familiar with [link](https://4d,com)4D hop over to their website and take a look. 
+This is a learning tool for 4D v17+. 4D is a relational database combined with a powerful object oriented language.  If you aren't familiar with [4D](https://4d,com)hop over to their website and take a look. 
+
+The object oriented language is called ORDA (Object Relational Data Access) and augments a more linear procedural language similar to Pascal that's powered 4D for years. This project is my the result of my personal learning process. I've programmed in 4D for a very long time. However, accomplishing things in ORDA is very different and I was getting frustrated. I realized I simply had to aquaint myself with all the new commands and techniques because picking and choosing a few here and there was just not working. 
+
+
 
 
 You can use the [editor on GitHub](https://github.com/KirkBrooks/sideORDA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
