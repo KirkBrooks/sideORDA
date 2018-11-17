@@ -1,6 +1,6 @@
 ## sideORDA
 
-This is a learning tool for 4D v17+. 4D is a relational database combined with a powerful object oriented language.  If you aren't familiar with [4D](https://4d,com)hop over to their website and take a look. 
+This is a learning tool for 4D v17+. 4D is a relational database combined with a powerful object oriented language.  If you aren't familiar with [4D](https://4d,com) hop over to their website and take a look. 
 
 The object oriented language is called ORDA (Object Relational Data Access) and augments a more linear procedural language similar to Pascal that's powered 4D for years. This project is my the result of my personal learning process. I've programmed in 4D for a very long time. However, accomplishing things in ORDA is very different and I was getting frustrated. I realized I simply had to aquaint myself with all the new commands and techniques because picking and choosing a few here and there was just not working. 
 
@@ -19,3 +19,10 @@ Seriously - think about doing the same thing I did. You'll gain a lot. If you do
 ### If you're unfamiliar with git
 
 Click the green Clone or download button in the upper right of the window. Then choose download .zip. This will download a complete copy of the database. Open it with v17 or later. 
+
+### Update: 11/19/2018
+
+I've updated sideORDA with the examples from my [4D Method presentation](https://4dmethod.com/2018/09/21/september-26th-meeting-subforms-as-dynamic-data-objects-rethinking-the-4d-form-kirk-brooks/#more-966). You will also find some new experiments and general doodling around using the new tools. 
+
+### This example is provided 'as is'
+There are bugs, there are incomplete methods, there are issues. It's a learning tool, not a finished project. 
