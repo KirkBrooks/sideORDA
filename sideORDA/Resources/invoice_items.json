@@ -1,0 +1,369 @@
+{"items":[
+  {
+    "sku": "TC22080008",
+    "key": "22080008",
+    "name": "Power Vent System",
+    "msrp": 3599
+  },
+  {
+    "sku": "TC22080009",
+    "key": "22080009",
+    "name": "Standard Wall Switch",
+    "msrp": 0
+  },
+  {
+    "sku": "TC22080010",
+    "key": "22080010",
+    "name": "Optional Touch Screen Control System",
+    "msrp": 819
+  },
+  {
+    "sku": "TC22080013",
+    "key": "22080013",
+    "name": "Cold Climate Intake Damper Kit",
+    "msrp": 1499
+  },
+  {
+    "sku": "TC309220",
+    "key": "309220",
+    "name": "Glass c/w Gasket & Frame",
+    "msrp": 1073
+  },
+  {
+    "sku": "TC30BKSCA",
+    "key": "30BKSCA",
+    "name": "TC30 Classic Series Fireplace Screen",
+    "msrp": 672
+  },
+  {
+    "sku": "TC30D2",
+    "key": "30D2",
+    "name": "TC30 Modular Body",
+    "msrp": 3659
+  },
+  {
+    "sku": "TC30DLPKIT",
+    "key": "30DLPKIT",
+    "name": "30D LP Conversion Kit - D Series Only",
+    "msrp": 119
+  },
+  {
+    "sku": "TC30FRKIT",
+    "key": "30FRKIT",
+    "name": "Framing Kit",
+    "msrp": 236
+  },
+  {
+    "sku": "TC30LPCE01",
+    "key": "30LPCE01",
+    "name": "LP Conversion Kit",
+    "msrp": 84
+  },
+  {
+    "sku": "TC30NG02DN",
+    "key": "30NG02DN",
+    "name": "TC30D Country Home Stacked Round Burner - LP Conversion Kit Not Included - NG ONLY",
+    "msrp": 1489
+  },
+  {
+    "sku": "TC30NG03D",
+    "key": "30NG03D",
+    "name": "TC30D Black Diamond Burner Kit Includes Floating Fireplace Burner & Reflective Glass",
+    "msrp": 1489
+  },
+  {
+    "sku": "TC30NG04CBD",
+    "key": "30NG04CBD",
+    "name": "TC30D Coffee Bean Brown Tranquility Burner Kit - LP Conversion Kit Not Included",
+    "msrp": 1489
+  },
+  {
+    "sku": "TC30NG04D",
+    "key": "30NG04D",
+    "name": "TC30D Tranquility River Rock Burner Kit Includes Black Porcelain Burner Tray w/Smooth River Rock",
+    "msrp": 1489
+  },
+  {
+    "sku": "TC30NG05D",
+    "key": "30NG05D",
+    "name": "TC30D Heartwood Burner/Logs Kit Includes Burner, Logs & Grate - LP Conversion Kit Not Included",
+    "msrp": 1489
+  },
+  {
+    "sku": "TC30NG06D2",
+    "key": "30NG06D2",
+    "name": "TC30 D & D2 Chalet Burner Split Log Set",
+    "msrp": 1489
+  },
+  {
+    "sku": "TC30SC555A",
+    "key": "30SC555A",
+    "name": "TC30 Clean View Fire Screen",
+    "msrp": 224
+  },
+  {
+    "sku": "TC365011835",
+    "key": "365011835",
+    "name": "Burner Tubes",
+    "msrp": 190
+  },
+  {
+    "sku": "TC365011835WELD",
+    "key": "365011835WELD",
+    "name": "Burner Tubes",
+    "msrp": 188
+  },
+  {
+    "sku": "TC3650118398",
+    "key": "3650118398",
+    "name": "Burner Assembly",
+    "msrp": 202
+  },
+  {
+    "sku": "TC365011841WLD",
+    "key": "365011841WLD",
+    "name": "Lighter Tube Assembly",
+    "msrp": 34
+  },
+  {
+    "sku": "TC36503152",
+    "key": "36503152",
+    "name": "Plugs (19)",
+    "msrp": 17
+  },
+  {
+    "sku": "TC3650625",
+    "key": "3650625",
+    "name": "Pig Tail c/w Wiring",
+    "msrp": 15
+  },
+  {
+    "sku": "TC369120ASSY",
+    "key": "369120ASSY",
+    "name": "Frame & Glass with Gasket for TC36",
+    "msrp": 1129
+  },
+  {
+    "sku": "TC369141",
+    "key": "369141",
+    "name": "Blower Assembly",
+    "msrp": 77
+  },
+  {
+    "sku": "TC369318",
+    "key": "369318",
+    "name": "Grate Assembly",
+    "msrp": 140
+  },
+  {
+    "sku": "TC369370FWELD",
+    "key": "369370FWELD",
+    "name": "Front Burner",
+    "msrp": 111
+  },
+  {
+    "sku": "TC369370RWELD",
+    "key": "369370RWELD",
+    "name": "Rear Burner",
+    "msrp": 128
+  },
+  {
+    "sku": "TC3693711",
+    "key": "3693711",
+    "name": "Manifold",
+    "msrp": 111
+  },
+  {
+    "sku": "TC369381WELD",
+    "key": "369381WELD",
+    "name": "Grate Assembly",
+    "msrp": 135
+  },
+  {
+    "sku": "TC369415PBKA",
+    "key": "369415PBKA",
+    "name": "Tranquilty Leg",
+    "msrp": 84
+  },
+  {
+    "sku": "TC369416WLD",
+    "key": "369416WLD",
+    "name": "Tranquilty Curb",
+    "msrp": 77
+  },
+  {
+    "sku": "TC369418PBKA",
+    "key": "369418PBKA",
+    "name": "Floor Pan",
+    "msrp": 101
+  },
+  {
+    "sku": "TC369499",
+    "key": "369499",
+    "name": "Pebble Assembly",
+    "msrp": 200
+  },
+  {
+    "sku": "TC369626PBK",
+    "key": "369626PBK",
+    "name": "Pilot Shield",
+    "msrp": 41
+  },
+  {
+    "sku": "TC369699PBKA",
+    "key": "369699PBKA",
+    "name": "Line Cover",
+    "msrp": 327
+  },
+  {
+    "sku": "TC369788",
+    "key": "369788",
+    "name": "Burner Manifold",
+    "msrp": 29
+  },
+  {
+    "sku": "TC369788WLD",
+    "key": "369788WLD",
+    "name": "Manifold",
+    "msrp": 34
+  },
+  {
+    "sku": "TC36B2",
+    "key": "36B2",
+    "name": "36DDV Modular Series B Fireplace",
+    "msrp": 2466
+  },
+  {
+    "sku": "TC36BARFRKITA",
+    "key": "36BARFRKITA",
+    "name": "Arch Framing Kit",
+    "msrp": 317
+  },
+  {
+    "sku": "TC36BEUPGNG",
+    "key": "36BEUPGNG",
+    "name": "TC36 NG Electronic Ignition Upgrade",
+    "msrp": 595
+  },
+  {
+    "sku": "TC36BFRKITA",
+    "key": "36BFRKITA",
+    "name": "36 Framing Kit \"B\"",
+    "msrp": 236
+  },
+  {
+    "sku": "TC36BKARSCA",
+    "key": "36BKARSCA",
+    "name": "36 Classic Series Arch Screen, Black Metallic",
+    "msrp": 672
+  },
+  {
+    "sku": "TC36BKSCA",
+    "key": "36BKSCA",
+    "name": "Classic Series Fireplace Screen",
+    "msrp": 616
+  },
+  {
+    "sku": "TC36CODE",
+    "key": "36CODE",
+    "name": "TC36 Outdoor Fireplace NG, Field Convertible to LP, Panels & Burners Sold Seperately",
+    "msrp": 4799
+  },
+  {
+    "sku": "TC36CSFRKIT",
+    "key": "36CSFRKIT",
+    "name": "See Thru Framing Kit",
+    "msrp": 236
+  },
+  {
+    "sku": "TC36D2",
+    "key": "36D2",
+    "name": "TC36D2 Modular DDV Electronic Fireplace Includes Framing Kit, No Burner, Logs or Grate",
+    "msrp": 4129
+  },
+  {
+    "sku": "TC36DLPKIT",
+    "key": "36DLPKIT",
+    "name": "36D/DAR LP Conversion Kit - D Series Only",
+    "msrp": 119
+  },
+  {
+    "sku": "TC36DST2",
+    "key": "36DST2",
+    "name": "TC36 See Thru D2 Fireplace",
+    "msrp": 5599
+  },
+  {
+    "sku": "TC36DSTLPKIT",
+    "key": "36DSTLPKIT",
+    "name": "36DST LP Conversion Kit - D Series Only",
+    "msrp": 119
+  },
+  {
+    "sku": "TC36ELPKTA",
+    "key": "36ELPKTA",
+    "name": "36 LP Electronic Conversion Kit (FOR B STYLE ONLY)",
+    "msrp": 60
+  },
+  {
+    "sku": "TC36HK03",
+    "key": "36HK03",
+    "name": "Hardware Kit",
+    "msrp": 41
+  },
+  {
+    "sku": "TC36LPCE01",
+    "key": "36LPCE01",
+    "name": "LP Conversion Kit",
+    "msrp": 80
+  },
+  {
+    "sku": "TC36LPKTA",
+    "key": "36LPKTA",
+    "name": "36 Standing Pilot Conversion Kit, NG to LP",
+    "msrp": 60
+  },
+  {
+    "sku": "TC36LPKTB",
+    "key": "36LPKTB",
+    "name": "36BBR Standing Pilot Conversion Kit, NG to LP",
+    "msrp": 66
+  },
+  {
+    "sku": "TC36LPKTEC",
+    "key": "36LPKTEC",
+    "name": "36 C-Series Electronic Conversion Kit, NG to LP",
+    "msrp": 66
+  },
+  {
+    "sku": "TC36LPKTESB",
+    "key": "36LPKTESB",
+    "name": "36BS Electronic Pilot Conversion Kit, NG to LP (Pre 5/24/05)",
+    "msrp": 66
+  },
+  {
+    "sku": "TC36NG02CN",
+    "key": "36NG02CN",
+    "name": "TC36C & TC36CODE Series Country Home Burner Kit",
+    "msrp": 1659
+  },
+  {
+    "sku": "TC36NG02DN",
+    "key": "36NG02DN",
+    "name": "TC36D Series Country Home Burner Kit - NG ONLY",
+    "msrp": 1659
+  },
+  {
+    "sku": "TC36NG03C",
+    "key": "36NG03C",
+    "name": "TC36C & TC36CODE Black Diamond Burner Kit",
+    "msrp": 1659
+  },
+  {
+    "sku": "TC36NG03D",
+    "key": "36NG03D",
+    "name": "TC36D Black Diamond Burner Kit Includes Floating Fireplace Burner & Reflective Glass",
+    "msrp": 1659
+  }
+]
+}

@@ -1,0 +1,6 @@
+{
+  "a": 100,
+  "b": "Is a string",
+  "c": [1,2,3,4,5],
+  "$ref": "example2.json#"
+}
